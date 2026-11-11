@@ -317,12 +317,12 @@ Rules of thumb:
 
 ## Legal and responsible use
 
-Use his tool only against systems you own or are explicitly authorized in writing to test. Unauthorized access attempts are illegal in most jurisdictions. The authors accept no liability for misuse.
+Use this tool only against systems you own or are explicitly authorized in writing to test. Unauthorized access attempts are illegal in most jurisdictions. The authors accept no liability for misuse.
 
-> Last updated: 11/2026
-> Author: Laurent Schueller
-> License: MIT
-> 
-> For authorized penetration testing, lab / training, and network auditing use only.
-> Only scan systems you **own** or have **explicit permission** to test.
-> For educational purpose suitable.
+Last updated: 11/2026
+Author: Laurent Schueller
+License: MIT
+
+For authorized penetration testing, lab / training, and network auditing use only.
+Only scan systems you **own** or have **explicit permission** to test.
+For educational purpose suitable.
