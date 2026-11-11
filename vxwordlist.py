@@ -12,6 +12,7 @@ License: MIT
 For authorized penetration testing, lab / training, and network auditing use only.
 For educational purpose suitable.
 Unauthorized scanning may be illegal.
+The authors accept no liability for misuse.
 """
 
 import argparse
