@@ -127,9 +127,9 @@ A token starts with `$`. Everything else is a literal and is copied unchanged.
 
 Used by `$s%` and `$sx`:
 
-| Letter | `l` | `i` | `z` | `e` | `a` | `s` | `g` | `t` | `b` |
-|---|---|---|---|---|---|---|---|---|---|
-| Digit | `1` | `1` | `2` | `3` | `4` | `5` | `6` | `7` | `8` |
+| Letter | `o` | `l` | `i` | `z` | `e` | `a` | `s` | `g` | `t` | `b` |
+|---| --- |---|---|---|---|---|---|---|---|---|
+| Digit | `0` | `1` | `1` | `2` | `3` | `4` | `5` | `6` | `7` | `8` |
 
 Note that `l` and `i` both map to `1`.
 

@@ -24,6 +24,7 @@ LOWER = "abcdefghijklmnopqrstuvwxyz"
 UPPER = LOWER.upper()
 DEFAULT_SPECIALS = "!@#$%&*?-_.+"
 LEET = {
+"o": "0",
 "l": "1", 
 "i": "1", 
 "z": "2", 
