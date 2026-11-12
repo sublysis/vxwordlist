@@ -127,11 +127,11 @@ A token starts with `$`. Everything else is a literal and is copied unchanged.
 
 Used by `$s%` and `$sx`:
 
-| Letter | `o` | `l` | `i` | `z` | `e` | `a` | `s` | `g` | `t` | `b` |
-|---| --- |---|---|---|---|---|---|---|---|---|
-| Digit | `0` | `1` | `1` | `2` | `3` | `4` | `5` | `6` | `7` | `8` |
+| Letter | `o` | `l` | `i` | `z` | `e` | `a` | `s` | `g` | `t` | `b` | `g` |
+|---| --- |---|---|---|---|---|---|---|---|---| --- |
+| Digit | `0` | `1` | `1` | `2` | `3` | `4` | `5` | `6` | `7` | `8` | `9` |
 
-Note that `l` and `i` both map to `1`.
+Note that `l` and `i` both map to `1`, and `g` maps to `6` and `9`.
 
 ### How `$sx` works
 

@@ -33,7 +33,8 @@ LEET = {
 "s": "5", 
 "g": "6", 
 "t": "7", 
-"b": "8"}
+"b": "8",
+"g": "9"}
 
 # Token names after "$". Two-char names must be checked before one-char names.
 TWO_CHAR = {"sf", "Sf", "SF", "s%", "sx"}
