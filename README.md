@@ -145,7 +145,7 @@ All combinations are generated. A letter with a substitution has 3 variants, a l
 
 Example for `test`: `t` (3: `t`, `T`, `7`) × `e` (3) × `s` (3) × `t` (3) = **81 variants**, including `test`, `TEST`, `7357`, `Te5t`, `t3St`, ...
 
-Example for `crazyhorse`: c(2) · r(2) · a(3) · z(3) · y(2) · h(2) · o(2) · r(2) · s(3) · e(3) = 2⁶ × 3⁴ = **5,184 variants**.
+Example for `crazyhorse`: c(2) · r(2) · a(3) · z(3) · y(2) · h(2) · o(3) · r(2) · s(3) · e(3) = 2⁵ × 3⁵ = **7,776 variants**
 
 The count grows by up to a factor of 3 per letter, so long keywords get large quickly. Use [`--estimate`](#estimating-output-size) first.
 
